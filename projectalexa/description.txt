@@ -1,0 +1,1 @@
+Building our own "alexa" as an application of tinyml and its deployment on embedded systems under our Professor Arindam Biswas.
